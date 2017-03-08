@@ -1,5 +1,5 @@
 # Save Safari tabs to Day One
-![Safari tabs to Day one 2](img/Safari-tabs-to-Day-One.png)
+![Safari tabs to Day one 2](img/Chrome-tabs-to-Day-One.png)
 
 This AppleScript saves all tabs/URLs from all the Safari windows to a new entry in Day One 2.
 
